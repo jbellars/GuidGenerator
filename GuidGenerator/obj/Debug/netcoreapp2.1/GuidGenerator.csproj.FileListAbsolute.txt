@@ -1,0 +1,11 @@
+c:\users\justin bellars\source\repos\GuidGenerator\GuidGenerator\bin\Debug\netcoreapp2.1\GuidGenerator.deps.json
+c:\users\justin bellars\source\repos\GuidGenerator\GuidGenerator\bin\Debug\netcoreapp2.1\GuidGenerator.runtimeconfig.json
+c:\users\justin bellars\source\repos\GuidGenerator\GuidGenerator\bin\Debug\netcoreapp2.1\GuidGenerator.runtimeconfig.dev.json
+c:\users\justin bellars\source\repos\GuidGenerator\GuidGenerator\bin\Debug\netcoreapp2.1\GuidGenerator.dll
+c:\users\justin bellars\source\repos\GuidGenerator\GuidGenerator\bin\Debug\netcoreapp2.1\GuidGenerator.pdb
+c:\users\justin bellars\source\repos\GuidGenerator\GuidGenerator\obj\Debug\netcoreapp2.1\GuidGenerator.csprojAssemblyReference.cache
+c:\users\justin bellars\source\repos\GuidGenerator\GuidGenerator\obj\Debug\netcoreapp2.1\GuidGenerator.csproj.CoreCompileInputs.cache
+c:\users\justin bellars\source\repos\GuidGenerator\GuidGenerator\obj\Debug\netcoreapp2.1\GuidGenerator.AssemblyInfoInputs.cache
+c:\users\justin bellars\source\repos\GuidGenerator\GuidGenerator\obj\Debug\netcoreapp2.1\GuidGenerator.AssemblyInfo.cs
+c:\users\justin bellars\source\repos\GuidGenerator\GuidGenerator\obj\Debug\netcoreapp2.1\GuidGenerator.dll
+c:\users\justin bellars\source\repos\GuidGenerator\GuidGenerator\obj\Debug\netcoreapp2.1\GuidGenerator.pdb
