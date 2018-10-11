@@ -8,9 +8,10 @@ namespace GuidGenerator
         {
             bool keepLooping = true;
 
+            Console.WriteLine("Welcome to the GUID Generator!");
+
             while (keepLooping)
             {
-                Console.WriteLine("Welcome to the GUID Generator!");
                 Console.Write("Here's a new GUID for your use: ");
                 Guid GuidToken = Guid.NewGuid();
                 Console.WriteLine(GuidToken);
